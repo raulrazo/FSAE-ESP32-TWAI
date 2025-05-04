@@ -1,0 +1,14 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/raulrazo/esp/v5.4.1/esp-idf",
+    "idf.toolsPath": "/Users/raulrazo/.espressif",
+    "idf.pythonInstallPath": "/Users/raulrazo/miniforge3/bin/python3",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.flashType": "UART",
+    "idf.port": "/dev/tty.usbmodem1101"
+}

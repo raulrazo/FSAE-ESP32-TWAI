@@ -1,0 +1,9 @@
+/build/
+sdkconfig.old
+sdkconfig
+*.pyc
+*.o
+*.elf
+*.bin
+*.map
+*.log
